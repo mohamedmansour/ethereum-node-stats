@@ -1,3 +1,6 @@
+Migrated project to https://github.com/ethereum/node-crawler
+-----
+
 # Ethereum Node Crawler
 
 Will showcase which nodes are ready for London Fork, will be customizable to an fork.
